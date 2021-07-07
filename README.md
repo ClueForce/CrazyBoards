@@ -1,0 +1,2 @@
+# CrazyBoards
+Advanced Scoreboards Plugin
